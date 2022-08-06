@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"ptb-api-go/cmd/api"
+	"ptb-api-go/api"
 )
 
 func main() {

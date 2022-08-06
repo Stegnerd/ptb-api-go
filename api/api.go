@@ -9,7 +9,7 @@ func Run() {
 
 	// set up dependencies
 
-	// set up routing
+	// set up routers from each directory
 
 	r := gin.Default()
 
